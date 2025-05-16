@@ -16,13 +16,12 @@
 
 # License
 
-[CC BY-NC-SA 4.0](https://github.com/andrefcodes/mitx-6001x/blob/main/LICENSE) Attribution-NonCommercial-ShareAlike 4.0 International. 
+[CC BY-NC-SA 4.0](https://github.com/andrefcodes/mitx-6001x/blob/main/LICENSE) - Attribution-NonCommercial-ShareAlike 4.0 International. 
 
 * Content linked to or copied from the [MITx-6.00.1 Webpage](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) or [MITx-6.00.1 on edX](https://www.edx.org/course/introduction-to-computer-science-and-programming-7?index=product&queryID=16e15acacabe60a401a89d01e00729db&position=1). For more information, see: https://ocw.mit.edu/terms/#cc
 
 * Other content created in this repository, for instance, exercises and code unless stated otherwise.
 
-[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
-Attribution-NonCommercial 3.0 Unported
+[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) - Attribution-NonCommercial 3.0 Unported
 
 * [Book Think Python by Allen Downey](https://github.com/andrefcodes/mitx-6001x/blob/main/Additional%20resources/thinkpython2.pdf)
